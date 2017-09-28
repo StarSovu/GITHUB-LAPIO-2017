@@ -3,3 +3,5 @@ STAR TREK
 STAR VS. THE FORCES OF EVIL
 Lempiviikkojani vuonna 2017 olivat viikot 7 ja 15.
 STAR WARS EPISODE VII: THE FORCE AWAKENS
+Lempitehtäviäni olivat ne, missä tehtiin sitä sivua CSS-jutuilla.
+Muokkasin tätä taas.
